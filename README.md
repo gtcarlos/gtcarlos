@@ -3,7 +3,8 @@
 - ⌨️ Ruby on Rails - JavaScript - React
 - 📚 Blockchain - Web3 - Solidity
 - 💬 [Twitter](http://www.twitter.com/gtcarlos_) - [LinkedIn](https://www.linkedin.com/in/gtcarlos/)
-- 💁🏽‍♂️ He/Him
+- 🇧🇷 Brazilian
+- 💁🏽‍♂️ He / Him
 <!--
 **gtcarlos/gtcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
