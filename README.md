@@ -1,6 +1,7 @@
 - 🇧🇷 Brazilian
 - 🧑🏽‍💻 Software Engineer
 - 👨🏽‍🎓 MSc in Blockchain student
+- 🌍 Co. Wicklow, Ireland
 - ⌨️ Ruby on Rails - JavaScript - React
 - 📚 Blockchain - Web3 - Solidity
 - 💬 [Twitter](http://www.twitter.com/gtcarlos_) - [LinkedIn](https://www.linkedin.com/in/gtcarlos/)
